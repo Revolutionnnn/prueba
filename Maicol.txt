@@ -1,5 +1,1 @@
-Esta es la historia de maicol el flojo, que no le gusta hacer nada xD
-Mentiris
-Si le gusta hacer cosas
-
-ESTA ES LA V2 DE MI APP
+Esta solo es un prueba para aprender a usar git y github
