@@ -1,2 +1,4 @@
 Esta solo es un prueba para aprender a usar git y github
 Una nueva version
+
+Acabo de agregar una imagen
