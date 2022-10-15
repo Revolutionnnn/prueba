@@ -3,17 +3,3 @@ Una nueva version
 
 Acabo de agregar una imagen
 
-Probando los stach
-
-<<<<<<< Updated upstream
-sddsddsds
-d
-sadadsadad
-
-dasdasdasdadasdd
-
-
-dasddad
-=======
-sddsddsds
->>>>>>> Stashed changes
